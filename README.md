@@ -4,7 +4,7 @@
 
 В файле settings.py – информация о email и паролях.
 
-В файле app.py – библиотека к REST api приложения PetFriends.
+В файле api.py – библиотека к REST api приложения PetFriends.
 
 В директории /tests – файл с тестами.
 
