@@ -2,7 +2,7 @@
 
 Тесты REST api сайта PetFriends.
 
-В файле settings.py – информация о емейлах и паролях.
+В файле settings.py – информация о email и паролях.
 
 В файле app.py – библиотека к REST api приложения PetFriends.
 
